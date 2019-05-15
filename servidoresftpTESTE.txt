@@ -52,23 +52,23 @@ link referer=https://cometa.top/<p>
 <index>
 
 0AAAA=
-1AAAA=http://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer01/videos/.mp4
-2AAAA=http://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer04/ondemand/.mp4
-3AAAA=http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCServer09/ondemand/.mp4
-4AAAA=http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCServer09/ondemand/.mp4
-5AAAA=http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCServer10/ondemand/.mp4
-6AAAA=http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCServer11/ondemand/.mp4
-7AAAA=http://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer12/ondemand/.mp4
-8AAAA=http://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer13/ondemand/.mp4
-9AAAA=http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCServer07/ondemand/.mp4
-10AAAA=http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCServer08/ondemand/.mp4
-11AAAA=http://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer06/ondemand/.mp4
-12AAAA=http://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer02/ondemand/.mp4
-13AAAA=http://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCServer03/ondemand/.mp4
-14AAAA=http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer3/ondemand/.mp4
-15AAAA=http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer3/ondemand/.mp4
-16AAAA=http://d1coqw23fvj2h2.cloudfront.net/RedeCanais/RCFServer1/ondemand/.mp4
-17AAAA=http://d2ql5lrloe42iq.cloudfront.net/RedeCanais/RCFServer4/ondemand/.mp4
+1AAAA=http://ori1d.azureedge.net/RedeCanais/RCServer01/videos/.mp4
+2AAAA=http://ori1d.azureedge.net/RedeCanais/RCServer04/ondemand/.mp4
+3AAAA=http://ori2e.azureedge.net/RedeCanais/RCServer09/ondemand/.mp4
+4AAAA=http://ori2e.azureedge.net/RedeCanais/RCServer09/ondemand/.mp4
+5AAAA=http://ori2e.azureedge.net//RedeCanais/RCServer10/ondemand/.mp4
+6AAAA=http://ori2e.azureedge.net//RedeCanais/RCServer11/ondemand/.mp4
+7AAAA=http://ori1d.azureedge.net/RedeCanais/RCServer12/ondemand/.mp4
+8AAAA=http://ori1d.azureedge.net/RedeCanais/RCServer13/ondemand/.mp4
+9AAAA=http://ori2e.azureedge.net/RedeCanais/RCServer07/ondemand/.mp4
+10AAAA=http://ori2e.azureedge.net/RedeCanais/RCServer08/ondemand/.mp4
+11AAAA=http://ori1d.azureedge.net/RedeCanais/RCServer06/ondemand/.mp4
+12AAAA=http://ori1d.azureedge.nett/RedeCanais/RCServer02/ondemand/.mp4
+13AAAA=http://ori1d.azureedge.net/RedeCanais/RCServer03/ondemand/.mp4
+14AAAA=http://ori2e.azureedge.net/RedeCanais/RCFServer3/ondemand/.mp4
+15AAAA=http://ori2e.azureedge.net/RedeCanais/RCFServer3/ondemand/.mp4
+16AAAA=http://ori2e.azureedge.net/RedeCanais/RCFServer1/ondemand/.mp4
+17AAAA=http://ori1d.azureedge.net/RedeCanais/RCFServer4/ondemand/.mp4
 </index>
 
 		 hide: "true",
