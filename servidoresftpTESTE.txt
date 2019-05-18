@@ -46,7 +46,7 @@ a:active{color:#FFF;}
 
          file: "./baixar22.png",
          
- source src="http://ori6i.azureedge.net//hls1/TESTE
+ source src="http://ori4i.azureedge.net//hls1/TESTE
 link referer=https://cometa.top/<p>
 
 <index>
