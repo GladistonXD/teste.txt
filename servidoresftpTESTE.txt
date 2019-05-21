@@ -46,7 +46,7 @@ a:active{color:#FFF;}
 
          file: "./baixar22.png",
          
- source src="stream4.global.ssl.fastly.net//hls1/TESTE
+ source src="https://stream5.global.ssl.fastly.net//hls1/TESTE
 link referer=https://cometa.top/<p>
 
 <index>
