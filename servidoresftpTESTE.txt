@@ -46,7 +46,7 @@ a:active{color:#FFF;}
 
          file: "./baixar22.png",
          
- source src="https://d28is0xv51qd3.cloudfront.net//hls1/TESTE
+ source src="https://tracker.ec.cx:8433//hls1/TESTE
 link referer=https://cometa.top/<p>
 
 <index>
