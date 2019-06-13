@@ -1,124 +1,128 @@
-<html>
+<!DOCTYPE html>
+<html lang="pt-br">
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <head>
-<title></title>
-
-<style>
-a:visited {color:#FFF;}
-a:link{color:#FFF;}
-a:visited {color:#FFF;}
-a:hover {color:#FFF;}
-a:active{color:#FFF;}
+    <title>Canais Gratis Player</title>
+<link rel="stylesheet" href="https://ego.show/css/embed.min.css?v=0.1" />
+<style type="text/css">
+#player {
+position: absolute;
+top: 0;
+left: 0;
+bottom: 0;
+height: 100%;
+width: 100%;
+border: 0;
+overflow: hidden;
+}
 </style>
-
-<script type="text/javascript" src="https://jwpsrv.com/library/4+R8PsscEeO69iIACooLPQ.js" ></script>
-<script>jwplayer.key="gGpS+jTZmHT4xHlTSOhEsuk/Gt9I4gbAdqP1LQ54u8TX2EcxYlzoRA=="</script>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+<script src="https://cometa.top/player3/pops-mobile.js?5" ></script>
 </head>
-<body link="#000000" vlink="#000000" alink="#000000" bgcolor="#000000">
+<body>
+<div class="jwplayer jw-reset jw-skin-glow" id="player"></div>
+<div id="btn-unmute" onclick="WSUnmute()">AUMENTAR VOLUME</div>
+<div class="tb stream-offline" >
+  <div class="tb-col">
+    <img src="https://i.imgur.com/jVMrXxn.png" /></a>
+    <h2>STREAM IS OFFLINE</h2>
+    <p>Reconectando em <span class="counter"></span> segundos</p>
+  </div>
+</div>
+<script src="https://ego.show/css/jquery.min.js"></script>
+<script>var WSreloadCounter,WSnTries=0,videoStarted = false, startMuted = startMuted();WSref='6ie6tl1';function errorPlaying(){$(".stream-offline .counter").text(0);$(".stream-offline").css("display","table");WSreloadCounter=setInterval(function(){var a=$(".stream-offline .counter").text();if(a>1){a--;$(".stream-offline .counter").text(a)}else{ clearInterval(WSreloadCounter);WSnTries++;if(WSnTries<0){WSreloadStream();}else{ window.location.reload() } }},1000)}function startMuted(){var d=/constructor/i.test(window.HTMLElement)||(function(a){return a.toString()==="[object SafariRemoteNotification]"})(!window.safari||(typeof safari!=="undefined"&&safari.pushNotification));if(d){return true}var c=!!window.chrome&&!!window.chrome.webstore;if(c&&getChromeVersion()>=66){return true}return false}function getChromeVersion(){var a=navigator.userAgent.match(/Chrom(e|ium)\/([0-9]+)\./);return a?parseInt(a[2],10):false};</script>
+    <script src="https://cometa.top/player3/p2pcore.js?6"></script>
+    <script src="https://cdn.jsdelivr.net/npm/p2p-media-loader-hlsjs@latest/build/p2p-media-loader-hlsjs.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/clappr@latest"></script>
+	<script src="https://cdn.jsdelivr.net/npm/clappr-chromecast-plugin@latest/dist/clappr-chromecast-plugin.min.js"></script>
+    <script>
+	
+        if (p2pml.hlsjs.Engine.isSupported()) {
+            var engine = new p2pml.hlsjs.Engine();
 
-<body style="margin:0;padding:0">
-
-<center>
-
-<div id="myElement">Carregando o video...</div>
-<style>.jw-icon.jw-icon-inline.jw-button-color.jw-reset.btn-onplay {width: 100px;}.jw-icon.jw-icon-inline.jw-button-color.jw-reset.btn-onplay .jw-icon {width: 80px;}</style>
-<script type="text/javascript">
-   jwplayer('myElement').setup({
-	   
-        width: "100%",
-		
-        height: "100%",
-		
-		abouttext: "Player RedeCanais", 
-
-		aboutlink: "https://cometa.top/",
-
-		cast: { },
-		
-		image: './RedeCanaisVTTS/vtts/RCFServer4/.jpg?1',
-		
-		
-		primary: "html5",
-
-         logo: {
-
-         file: "./baixar22.png",
-         
- source src="https://dqafy0hu3iboq.cloudfront.net//hls1/TESTE
-link referer=https://cometa.top/<p>
-
-<index>
-1AAAA=http://vipe.azureedge.net/RedeCanais/RCServer11/ondemand/.mp4
-2AAAA=http://vipd.azureedge.net/RedeCanais/RCServer13/ondemand/.mp4
-3AAAA=http://vipe.azureedge.net/RedeCanais/RCServer10/ondemand/.mp4
-4AAAA=http://vipd.azureedge.net/RedeCanais/RCServer06/ondemand/.mp4
-5AAAA=http://vipd.azureedge.net/RedeCanais/RCServer03/ondemand/.mp4
-6AAAA=http://vipd.azureedge.net/RedeCanais/RCServer01/videos/.mp4
-7AAAA=http://vipe.azureedge.net/RedeCanais/RCServer08/ondemand/.mp4
-8AAAA=http://vipe.azureedge.net/RedeCanais/RCServer07/ondemand/.mp4
-9AAAA=http://vipd.azureedge.net/RedeCanais/RCServer12/ondemand/.mp4
-10AAAA=http://vipd.azureedge.net/RedeCanais/RCServer05/ondemand/.mp4
-11AAAA=http://vipe.azureedge.net/RedeCanais/RCServer09/ondemand/.mp4
-12AAAA=http://vipe.azureedge.net/RedeCanais/RCFServer2/ondemand/.mp4
-13AAAA=http://d3h7f2l3x87o81.cloudfront.net/RedeCanais/RCServer09/ondemand/.mp4
-14AAAA=http://vipe.azureedge.net/RedeCanais/RCFServer3/ondemand/.mp4
-15AAAA=http://vipe.azureedge.net/RedeCanais/RCFServer1/ondemand/.mp4
-16AAAA=http://vipd.azureedge.net/RedeCanais/RCFServer4/ondemand/.mp4
-17AAAA=http://vipd.azureedge.net/RedeCanais/RCServer04/ondemand/.mp4
-18AAAA=http://d3h7f2l3x87o81.cloudfront.net/RedeCanais/RCServer07/ondemand/.mp4
-19AAAA=http://d38ps3nt0722mh.cloudfront.net/RedeCanais/RCServer02/ondemand/.mp4
-</index>
-
-
-		 hide: "true",
-
-         },
-
-		sources: [{
-		file: "https://t2.thooop.top/RedeCanais/RCFServer4/ondemand/.mp4","type":"video\/mp4","label":"Automatico"
-		},{
-		file: "https://t2.thooop.top/RedeCanais/RCFServer4/ondemand/.mp4","type":"video\/mp4","label":"Qualidade HD"
-		}]
-	  
-		});
-		
-        jwplayer().addButton("./logoplayer.png", 'RedeCanais Filmes,Series,Desenhos e Animes', function () {
-         window.open("https://www.redecanais.ink");
-         }, 'btnOnPlay', 'btn-onplay');
-
+            var player = new Clappr.Player({
+                parentId: "#player",
+                source: "https://dqafy0hu3iboq.cloudfront.net/hls1/.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDE5IDI6MzM6NDggQU0maGFzaF92YWx1ZT1JQVV4WS9ta0FuWTVLREdyZXJBUW9BPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=",
+				poster: "https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/.jpg?1",
+                mute: false,
+                autoPlay: true,
+				width: "100%",
+				height: "100%",
+                playback: {
+                    hlsjsConfig: {
+						maxBufferLength:1000,
+						maxMaxBufferLength:2000,
+						startPosition:1,
+                        loader: engine.createLoaderClass()
+                    }
+                },
+				events:
+			{
+			onError:function(e)
+				{
+				errorPlaying()
+			}
+			,onPlay:function(e)
+				{
+				setTimeout(function()
+					{
+					$(".stream-logo").fadeOut()
+				}
+				,1000);
+				if(!videoStarted)
+					{
+					videoStarted=true;
+					setTimeout(function()
+						{
+						$.post("",
+							{
+							"ref":"6ie6tl1","a":"play"
+						}
+						)
+					}
+					,15000);
+					
+				}
+			}
+			,onPause:function(e)
+				{
+				$(".stream-logo").fadeIn()
+			}
+			,onVolumeUpdate:function(e)
+				{
+				$("#btn-unmute").fadeOut()
+			}
+			,
+		}
+	}
+	);
+	setTimeout(function()
+		{
+		player.play()
+	}
+	,1),   
+p2pml.hlsjs.initClapprPlayer(player);
+        } else {
+            document.write("Este navegador/browser nao e suportado. Baixe e utilize o navegador Google Chrome e tenha total acesso! :(");
+        }
+function WSreloadStream()
+	{
+	$(".stream-offline").css("display","none");
+	var newplayer=player.configure(player);
+	newplayer=new Clappr.Player(newplayer.options);
+	player.destroy();
+	player=newplayer;
+	player.play();
+	player.unmute()
+}
+function WSUnmute()
+	{
+	player.unmute()
+}
 </script>
-
-</center>
-
-
-<SCRIPT LANGUAGE="JavaScript">   
-<!-- Disable   
-function disableselect(e){   
-return false   
-}   
-
-function reEnable(){   
-return true   
-}   
-
-//if IE4+   
-document.onselectstart=new Function ("return false")   
-document.oncontextmenu=new Function ("return false")   
-//if NS6   
-if (window.sidebar){   
-document.onmousedown=disableselect   
-document.onclick=reEnable   
-}   
-//-->   
-</script>
-
-<iframe src="../contador.php" frameborder="0" scrolling="no" width="0" height="0"></iframe>
-
-<script type='text/javascript' src='./frameprotect.js'></script>
-
-
-
+<iframe src="../contador.php?static=true" frameborder="0" scrolling="no" width="0" height="0"></iframe>
 </body>
 </html>
