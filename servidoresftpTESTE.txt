@@ -46,7 +46,7 @@ a:active{color:#FFF;}
 
          file: "./baixar22.png",
          
- source src="https://lodonti.global.ssl.fastly.net//hls1/TESTE
+ source src="https://bango.azureedge.net//hls1/TESTE
 link referer=https://cometa.top/<p>
 
 <index>
