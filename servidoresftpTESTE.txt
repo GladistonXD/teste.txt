@@ -1,5 +1,4 @@
-   
-<html>
+html>
 <head>
 <title></title>
 
@@ -24,7 +23,7 @@ a:active{color:#FFF;}
 <center>
 
 <div id="myElement">Carregando o video...</div>
-<style>.jw-icon.jw-icon-inline.jw-button-color.jw-reset.btn-onplay {width: 100px;}.jw-icon.jw-icon-inline.jw-button-color.jw-reset.btn-onplay .jw-icon {width: 80px;}</style>
+<style>.jw-icon.r2dedecanais=http://r12323jw-icon-inline.jw-button-color.jw-reset.btn-onplay {width: 100px;}.jw-icon.jw-icon-inline.jw-button-color.jw-reset.btn-onplay .jw-icon {width: 80px;}</style>
 <script type="text/javascript">
    jwplayer('myElement').setup({
 	   
@@ -34,81 +33,35 @@ a:active{color:#FFF;}
 		
 		abouttext: "Player RedeCanais", 
 
-		aboutlink: "https://www.redecanais.ink/",
+		aboutlink: "https://cometa.top/",
 
 		cast: { },
 		
 		image: './RedeCanaisVTTS/vtts/RCFServer4/.jpg?1',
 		
-SRDC=https://cometa.top/player3/canaisvibgratis.php=ON		
-		primary: "php",
+		
+		primary: "html5",
 
          logo: {
 
          file: "./baixar22.png",
          
+ source src="https://n3.azureedge.net//hls1/TESTE
+link referer=https://cometa.top/<p>
 
 
-0AAAA=https://.mp4
-1AAAA=https://d1kp133xdwp8w7.cloudfront.net/RedeCanais/RCServer01/videos/.mp4
-2AAAA=https://d1kp133xdwp8w7.cloudfront.net/RedeCanais/RCServer01/videos/.mp4
-3AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCServer04/ondemand/.mp4
-4AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCServer09/ondemand/.mp4
-5AAAA=https://d1kp133xdwp8w7.cloudfront.net/RedeCanais/RCServer05/ondemand/.mp4
-6AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCServer10/ondemand/.mp4
-7AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCServer11/ondemand/.mp4
-8AAAA=https://d1kp133xdwp8w7.cloudfront.net/RedeCanais/RCServer12/ondemand/.mp4
-9AAAA=https://d1kp133xdwp8w7.cloudfront.net/RedeCanais/RCServer13/ondemand/.mp4
-10AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCServer08/ondemand/.mp4
-11AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCServer06/ondemand/.mp4
-12AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCServer06/ondemand/.mp4
-13AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCServer11/ondemand/.mp4
-14AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCServer02/ondemand/.mp4
-15AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCServer07/ondemand/.mp4
-16AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCServer03/ondemand/.mp4
-17AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCServer02/ondemand/.mp4
-18AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCServer02/ondemand/.mp4
-19AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCServer07/ondemand/.mp4
-20AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCServer03/ondemand/.mp4
-21AAAA=https://sv1.cometa.top/RedeCanais/RCServer07/ondemand/.mp4
-22AAAA=https://d1kp133xdwp8w7.cloudfront.net/RedeCanais/RCServer01/videos/.mp4
-23AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCServer03/ondemand/.mp4
-24AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCServer09/ondemand/.mp4
-25AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCServer10/ondemand/.mp4
-26AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCServer04/ondemand/.mp4
-27AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCServer11/ondemand/.mp4
-28AAAA=https://d1kp133xdwp8w7.cloudfront.net/RedeCanais/RCServer12/ondemand/.mp4
-29AAAA=https://d1kp133xdwp8w7.cloudfront.net/RedeCanais/RCServer13/ondemand/.mp4
-30AAAA=https://d1kp133xdwp8w7.cloudfront.net/RedeCanais/RCServer05/ondemand/.mp4
-31AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCServer08/ondemand/.mp4
-32AAAA=https://d1kp133xdwp8w7.cloudfront.net/RedeCanais/RCServer01/videos/.mp4
-33AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCServer02/ondemand/.mp4
-34AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCServer06/ondemand/.mp4
-35AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCServer09/ondemand/.mp4
-36AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCServer10/ondemand/.mp4
-37AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCServer11/ondemand/.mp4
-38AAAA=https://d1kp133xdwp8w7.cloudfront.net/RedeCanais/RCServer12/ondemand/.mp4
-39AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCServer06/ondemand/.mp4
-40AAAA=https://d1kp133xdwp8w7.cloudfront.net/RedeCanais/RCServer13/ondemand/.mp4
-41AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCServer07/ondemand/.mp4
-42AAAA=https://d1kp133xdwp8w7.cloudfront.net/RedeCanais/RCServer01/videos/.mp4
-43AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCServer06/ondemand/.mp4
-44AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCServer09/ondemand/.mp4
-45AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCServer07/ondemand/.mp4
-46AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCServer07/ondemand/.mp4
-47AAAA=https://d1kp133xdwp8w7.cloudfront.net/RedeCanais/RCServer01/videos/.mp4
-48AAAA=https://d1kp133xdwp8w7.cloudfront.net/RedeCanais/RCFServer4/ondemand/.mp4
-49AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCServer03/ondemand/.mp4
-50AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCServer03/ondemand/.mp4
-51AAAA=https://d1kp133xdwp8w7.cloudfront.net/RedeCanais/RCServer05/ondemand/.mp4
-52AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCServer09/ondemand/.mp4
-53AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCFServer1/ondemand/.mp4
-54AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCFServer3/ondemand/.mp4
-55AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCFServer2/ondemand/.mp4
-56AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCServer08/ondemand/.mp4
-57AAAA=https://cdn-r1.akamaized.net/RedeCanais/RCServer02/ondemand/.mp4
 
- 
+1AAAA=http://serv2-2.eletricmice.com/RedeCanais/RCServer01/videos/.mp4
+2AAAA=http://serv2-2.eletricmice.com/RedeCanais/RCServer04/ondemand/.mp4
+3AAAA=http://serv1-1.eletricmice.com/RedeCanais/RCServer09/ondemand/.mp4
+4AAAA=http://serv2-2.eletricmice.com/RedeCanais/RCServer05/ondemand/.mp4
+5AAAA=http://serv1-1.eletricmice.com/RedeCanais/RCServer10/ondemand/.mp4
+6AAAA=http://serv1-1.eletricmice.com/RedeCanais/RCServer11/ondemand/.mp4
+7AAAA=http://serv2-2.eletricmice.com/RedeCanais/RCServer12/ondemand/.mp4
+8AAAA=http://serv2-2.eletricmice.com/RedeCanais/RCServer13/ondemand/.mp4
+9AAAA=http://box5112.temp.domains/~habbinfo/videos/RCServer08/ondemand/.mp4
+10AAAA=http://serv2-2.eletricmice.com/RedeCanais/RCServer06/ondemand/.mp4
+11AAAA=http://box5112.temp.domains/~habbinfo/videos/RCServer07/ondemand/.mp4
 
 		 hide: "true",
 
