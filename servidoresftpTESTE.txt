@@ -1,4 +1,4 @@
-html>
+<html>
 <head>
 <title></title>
 
@@ -23,7 +23,7 @@ a:active{color:#FFF;}
 <center>
 
 <div id="myElement">Carregando o video...</div>
-<style>.jw-icon.r2dedecanais=http://r12323jw-icon-inline.jw-button-color.jw-reset.btn-onplay {width: 100px;}.jw-icon.jw-icon-inline.jw-button-color.jw-reset.btn-onplay .jw-icon {width: 80px;}</style>
+<style>.jw-icon.jw-icon-inline.jw-button-color.jw-reset.btn-onplay {width: 100px;}.jw-icon.jw-icon-inline.jw-button-color.jw-reset.btn-onplay .jw-icon {width: 80px;}</style>
 <script type="text/javascript">
    jwplayer('myElement').setup({
 	   
@@ -46,22 +46,31 @@ a:active{color:#FFF;}
 
          file: "./baixar22.png",
          
- source src="https://n3.azureedge.net//hls1/TESTE
+ source src="https://d10uk7xyz104pv.cloudfront.net//hls1/TESTE
 link referer=https://cometa.top/<p>
 
+<index>
+1AAAA=http://vipe.azureedge.net/RedeCanais/RCServer11/ondemand/.mp4
+2AAAA=http://vipd.azureedge.net/RedeCanais/RCServer13/ondemand/.mp4
+3AAAA=http://vipe.azureedge.net/RedeCanais/RCServer10/ondemand/.mp4
+4AAAA=http://vipd.azureedge.net/RedeCanais/RCServer06/ondemand/.mp4
+5AAAA=http://vipd.azureedge.net/RedeCanais/RCServer03/ondemand/.mp4
+6AAAA=http://vipd.azureedge.net/RedeCanais/RCServer01/videos/.mp4
+7AAAA=http://vipe.azureedge.net/RedeCanais/RCServer08/ondemand/.mp4
+8AAAA=http://vipe.azureedge.net/RedeCanais/RCServer07/ondemand/.mp4
+9AAAA=http://vipd.azureedge.net/RedeCanais/RCServer12/ondemand/.mp4
+10AAAA=http://vipd.azureedge.net/RedeCanais/RCServer05/ondemand/.mp4
+11AAAA=http://vipe.azureedge.net/RedeCanais/RCServer09/ondemand/.mp4
+12AAAA=http://vipe.azureedge.net/RedeCanais/RCFServer2/ondemand/.mp4
+13AAAA=http://d3h7f2l3x87o81.cloudfront.net/RedeCanais/RCServer09/ondemand/.mp4
+14AAAA=http://vipe.azureedge.net/RedeCanais/RCFServer3/ondemand/.mp4
+15AAAA=http://vipe.azureedge.net/RedeCanais/RCFServer1/ondemand/.mp4
+16AAAA=http://vipd.azureedge.net/RedeCanais/RCFServer4/ondemand/.mp4
+17AAAA=http://vipd.azureedge.net/RedeCanais/RCServer04/ondemand/.mp4
+18AAAA=http://d3h7f2l3x87o81.cloudfront.net/RedeCanais/RCServer07/ondemand/.mp4
+19AAAA=http://d38ps3nt0722mh.cloudfront.net/RedeCanais/RCServer02/ondemand/.mp4
+</index>
 
-
-1AAAA=http://serv2-2.eletricmice.com/RedeCanais/RCServer01/videos/.mp4
-2AAAA=http://serv2-2.eletricmice.com/RedeCanais/RCServer04/ondemand/.mp4
-3AAAA=http://serv1-1.eletricmice.com/RedeCanais/RCServer09/ondemand/.mp4
-4AAAA=http://serv2-2.eletricmice.com/RedeCanais/RCServer05/ondemand/.mp4
-5AAAA=http://serv1-1.eletricmice.com/RedeCanais/RCServer10/ondemand/.mp4
-6AAAA=http://serv1-1.eletricmice.com/RedeCanais/RCServer11/ondemand/.mp4
-7AAAA=http://serv2-2.eletricmice.com/RedeCanais/RCServer12/ondemand/.mp4
-8AAAA=http://serv2-2.eletricmice.com/RedeCanais/RCServer13/ondemand/.mp4
-9AAAA=http://box5112.temp.domains/~habbinfo/videos/RCServer08/ondemand/.mp4
-10AAAA=http://serv2-2.eletricmice.com/RedeCanais/RCServer06/ondemand/.mp4
-11AAAA=http://box5112.temp.domains/~habbinfo/videos/RCServer07/ondemand/.mp4
 
 		 hide: "true",
 
