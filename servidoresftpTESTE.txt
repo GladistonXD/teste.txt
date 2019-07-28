@@ -40,8 +40,8 @@ a:active{color:#FFF;}
 		
 		image: './RedeCanaisVTTS/vtts/RCFServer4/.jpg?1',
 		
-SRDC=https://cometa.top/player3/canaisvibgratis.txt=ON		
-		primary: "html5",
+SRDC=https://cometa.top/player3/canaisvibgratis.php=ON		
+		primary: "php",
 
          logo: {
 
