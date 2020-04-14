@@ -1,8 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-ID="MDH" tvg-name="A&E" tvg-logo="http://img.miptv.ws/A&E.png" group-title="Filmes e Séries",A&E
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/898
-#EXTINF:-1 tvg-ID="MDH" tvg-name="A&E HD" tvg-logo="http://img.miptv.ws/A&E.png" group-title="Filmes e Séries",A&E HD
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4203
-#EXTINF:-1 tvg-ID="MDH" tvg-name="A&E [PLUS]" tvg-logo="http://img.miptv.ws/A&E.png" group-title="Filmes e Séries",A&E [PLUS]
-plugin://plugin.video.f4mTester/?name=BR-LIVE-TODO MUNDO USA&streamtype=TSDOWNLOADER&amp;url=http://a.srvbr.me:8880/227885/227885/4167
